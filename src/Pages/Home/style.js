@@ -11,6 +11,7 @@ export const HomeWrapper = styled.section`
     }
     @media (max-width: 600px){
         flex-direction: column;
+        padding: 4em 3em 0em;
     }
 `;
 
@@ -63,7 +64,7 @@ export const DeveloperImg = styled.img`
         height: 18em;
     }
     @media (max-width: 600px){
-        margin-top: 7em;
+        margin-top: 5em;
     }
 `;
 

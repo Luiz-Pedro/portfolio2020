@@ -5,7 +5,7 @@ export const HomeWrapper = styled.section`
     display: flex;
     align-items:center;
     justify-content: space-around;
-    padding: 5em 3em 0em;
+    padding: 3em 3em 0em;
     @media (max-width: 1300px){
         padding: 2em 3em 0em;
     }

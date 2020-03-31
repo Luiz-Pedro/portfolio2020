@@ -12,11 +12,11 @@ export const Header = styled.header`
     }
 
     a{
-        @import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
-        font-family: 'Nanum Brush Script', cursive !important;
+        
+        font-family: 'Baloo Da 2', cursive !important;
         padding: 0.5em;
         color: #14ffec;
-        font-size: 1.5em;
+        font-size: 1.7em;
         font-weight: bolder;
         @media (max-width: 600px){
             font-size: 1.2em;

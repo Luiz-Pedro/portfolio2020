@@ -46,7 +46,7 @@ export const EuWrapper = styled.section`
 `;
 
 export const ImagemEu = styled.img`
-    width: 60%;
+    width: 53%;
     height: auto;
     border-radius: 50%;
     

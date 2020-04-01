@@ -4,7 +4,7 @@ import Header from '../Header';
 
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { EuWrapper, ImagemEu, Blob, LinkFotografia, DivIcones } from './style';
-import euImg from '../../Assets/eu.jpg';
+import euImg from '../../Assets/foto.jpeg';
 import blob from '../../Assets/bolha.png';
 
 export default function Eu(){

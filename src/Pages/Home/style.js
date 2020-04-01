@@ -30,12 +30,9 @@ export const Introduction = styled.div`
     p{
         color: #323232;
         line-height: 1.5em;
-        font-size: 1.1em;
+        font-size: 1em;
         letter-spacing: 0.03em;
         margin-bottom: 2.4em;
-        @media (max-width: 1300px){
-            font-size: 0.8em;
-        }
         
     }
 

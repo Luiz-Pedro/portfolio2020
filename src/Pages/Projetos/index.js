@@ -13,7 +13,7 @@ export default function Projetos(){
                 <ProjectsUl>
                     {projects.map((project, index) => (
                             <Project key={index}>
-                                <a href={project.link} target="_blank">
+                                <a href={project.link} target="_blank" rel="noopener noreferrer">
                                     {project.icon}
                                     <div>
                                         <h2>{project.title}</h2>

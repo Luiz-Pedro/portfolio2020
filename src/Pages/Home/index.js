@@ -16,8 +16,8 @@ export default function Home(){
                     <h1>Desenvolvedor Front-End</h1>
                     <p>Criação de aplicações web do layout ao código.</p>
                     <div>
-                        <a target="_blank" href="https://github.com/Luiz-Pedro"><FaGithub size={36}/></a>
-                        <a target="_blank" href="https://www.linkedin.com/in/luizpedromaciel/"><FaLinkedin size={36}/></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Luiz-Pedro"><FaGithub size={36}/></a>
+                        <a target="_blank"rel="noopener noreferrer" href="https://www.linkedin.com/in/luizpedromaciel/"><FaLinkedin size={36}/></a>
                     </div>
                 </Introduction>
                 <DeveloperImg src={developer} alt="programador"/>

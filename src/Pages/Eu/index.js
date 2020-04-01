@@ -24,8 +24,8 @@ export default function Eu(){
                         Tem a <LinkFotografia href="https://www.instagram.com/uauluiz/" target="_blank">fotografia</LinkFotografia> como um hobby e gosta de equilibrar o final de semana com futebol, estudos e cerveja.
                     </p>
                     <DivIcones>
-                        <a target="_blank" href="https://github.com/Luiz-Pedro"><FaGithub size={36}/></a>
-                        <a target="_blank" href="https://www.linkedin.com/in/luizpedromaciel/"><FaLinkedin size={36}/></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Luiz-Pedro"><FaGithub size={36}/></a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/luizpedromaciel/"><FaLinkedin size={36}/></a>
                         <p>lpedro.maciel@gmail.com</p>
                     </DivIcones>
                     

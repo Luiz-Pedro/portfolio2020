@@ -1,5 +1,5 @@
 import React from 'react';
-import { MdMovieFilter } from 'react-icons/md';
+
 import { AiOutlineShopping } from 'react-icons/ai';
 import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn} from 'react-icons/gi';
 import { FaChalkboardTeacher } from 'react-icons/fa';

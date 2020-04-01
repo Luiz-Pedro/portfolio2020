@@ -20,7 +20,7 @@ export default function Eu(){
                     <h1>Luiz Pedro Maciel</h1>
                     <p>
                         Graduando em Ciência da Computação pela PUC, mora em Belo Horizonte - MG e possui 20 anos.
-                        Com Atualmente trabalha como desenvolvedor front-end e ja trabalhou com desenvolvimento SharePoint.
+                        Com quase 3 anos de experiência no mercado, atualmente trabalha como desenvolvedor front-end e ja trabalhou com desenvolvimento SharePoint.
                         Tem a <LinkFotografia href="https://www.instagram.com/uauluiz/" target="_blank">fotografia</LinkFotografia> como um hobby e gosta de equilibrar o final de semana com futebol, estudos e cerveja.
                     </p>
                     <DivIcones>

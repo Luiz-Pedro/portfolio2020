@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const HomeWrapper = styled.section`
+    animation: fadeIn .3s forwards;
     position: relative;
     display: flex;
     align-items:center;
@@ -28,7 +29,7 @@ export const Introduction = styled.div`
     }
 
     p{
-        color: #323232;
+        color: #b0b0b0;
         line-height: 1.5em;
         font-size: 1em;
         letter-spacing: 0.03em;

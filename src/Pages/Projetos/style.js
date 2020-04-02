@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const ProjectsWrapper = styled.section`
+    animation: fadeIn .3s forwards;
     max-width: 70%;
     margin: 5em auto;
 `;

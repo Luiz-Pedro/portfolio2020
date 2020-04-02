@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const EuWrapper = styled.section`
+    animation: fadeIn .3s forwards;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 3em;
@@ -31,7 +32,7 @@ export const EuWrapper = styled.section`
         }
     }
     p{
-        color: #323232;
+        color: #b0b0b0;
         line-height: 26px;
         letter-spacing: 1.02px;
         padding-right: 4em;

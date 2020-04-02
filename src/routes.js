@@ -5,6 +5,8 @@ import Home from './Pages/Home';
 import Projetos from './Pages/Projetos';
 import Eu from './Pages/Eu';
 
+import './global.css';
+
 export default function Routes(){
 
     return(

@@ -2,9 +2,15 @@ import React from 'react';
 
 import { AiOutlineShopping } from 'react-icons/ai';
 import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn} from 'react-icons/gi';
-import { FaChalkboardTeacher } from 'react-icons/fa';
+import { FaChalkboardTeacher, FaCocktail } from 'react-icons/fa';
 
 export const projects =[
+    {
+        title: "Cocktail Recipes",
+        icon: <FaCocktail size={40}/>,
+        date: "2020",
+        link: "https://cocktails-recipes.netlify.com"
+    },
     {
         title: "Movie Night",
         icon: <GiPopcorn size={40}/>,

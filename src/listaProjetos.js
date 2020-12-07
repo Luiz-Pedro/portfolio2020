@@ -4,13 +4,12 @@ import { AiOutlineShopping } from 'react-icons/ai';
 import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn} from 'react-icons/gi';
 import { FaChalkboardTeacher, FaCocktail } from 'react-icons/fa';
 import { RiVirusLine } from 'react-icons/ri';
-import { IoFastFoodOutline } from 'react-icons/io';
-import { BiBook } from 'react-icons/bi';
+import { IoFastFoodOutline, IoBookSharp } from 'react-icons/io5';
 
 export const projects =[
     {
         title: "Matheus Roscoe",
-        icon: <BiBook size={40}/>,
+        icon: <IoBookSharp size={40}/>,
         date: "2020",
         link: "https://www.matheusroscoe.com.br/"
     },

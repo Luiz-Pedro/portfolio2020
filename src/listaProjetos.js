@@ -3,8 +3,29 @@ import React from 'react';
 import { AiOutlineShopping } from 'react-icons/ai';
 import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn} from 'react-icons/gi';
 import { FaChalkboardTeacher, FaCocktail } from 'react-icons/fa';
+import { RiVirusLine } from 'react-icons/ri';
+import { IoFastFoodOutline } from 'react-icons/io';
+import { BiBook } from 'react-icons/bi';
 
 export const projects =[
+    {
+        title: "Matheus Roscoe",
+        icon: <BiBook size={40}/>,
+        date: "2020",
+        link: "https://www.matheusroscoe.com.br/"
+    },
+    {
+        title: "JB Alimentos",
+        icon: <IoFastFoodOutline size={40}/>,
+        date: "2020",
+        link: "http://jbalimentos.com.br/"
+    },
+    {
+        title: "Novo coronavírus (SARS-CoV-2)",
+        icon: <RiVirusLine size={40}/>,
+        date: "2020",
+        link: "https://www.palmas.to.gov.br/portal/noticias/testagem-covid-19-pesquisadores-coletam-amostras-para-rastrear-e-combater-o-coronavirus/25707/"
+    },
     {
         title: "Cocktail Recipes",
         icon: <FaCocktail size={40}/>,

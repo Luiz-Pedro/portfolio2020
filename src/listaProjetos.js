@@ -1,15 +1,22 @@
 import React from 'react';
 
 import { AiOutlineShopping } from 'react-icons/ai';
-import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn} from 'react-icons/gi';
+import { GiChemicalDrop, GiLightSabers, GiSpeedometer, GiPopcorn, GiBookmarklet} from 'react-icons/gi';
 import { FaChalkboardTeacher, FaCocktail } from 'react-icons/fa';
 import { RiVirusLine } from 'react-icons/ri';
-import { IoFastFoodOutline, IoBookSharp } from 'react-icons/io5';
+import { IoFastFoodOutline } from 'react-icons/io5';
+import { RiUserHeartLine } from 'react-icons/ri';
 
 export const projects =[
     {
+        title: "Sapienx",
+        icon: <RiUserHeartLine size={40}/>,
+        date: "2021",
+        link: "https://www.sapienx.com.br/"
+    },
+    {
         title: "Matheus Roscoe",
-        icon: <IoBookSharp size={40}/>,
+        icon: <GiBookmarklet size={40}/>,
         date: "2020",
         link: "https://www.matheusroscoe.com.br/"
     },
